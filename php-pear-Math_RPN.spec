@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %{_pearname} provides an easy way to change given expression to RPN
 (Reverse Polish Notation) and evaluate it.
 
-This class has in PEAR status: %{_status}.
+In PEAR status of this package is: %{_status}.
 
 %description -l pl
 Za pomoc± %{_pearname} mo¿na w ³atwy sposób zmieniæ dane wyra¿enie na
