@@ -4,7 +4,7 @@
 %define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
 Summary:	%{_pearname} - RPN (Reverse Polish Notation) support
-Summary(pl):	%{_pearname} - Obs³uga notacji RPN (Reverse Polish Notation)
+Summary(pl):	%{_pearname} - obs³uga odwrotnej notacji polskiej (RPN)
 Name:		php-pear-%{_pearname}
 Version:	1.0
 Release:	1
@@ -26,7 +26,7 @@ This class has in PEAR status: %{_status}.
 
 %description -l pl
 Za pomoc± %{_pearname} mo¿na w ³atwy sposób zmieniæ dane wyra¿enie na
-notacjê RPN oraz je obliczyæ.
+odwrotn± notacjê polsk± (RPN) oraz je obliczyæ.
 
 Ta klasa ma w PEAR status: %{_status}.
 
