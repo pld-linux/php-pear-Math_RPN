@@ -1,8 +1,9 @@
 %include	/usr/lib/rpm/macros.php
-%define         _class          Math
-%define         _subclass       RPN
+%define		_class		Math
+%define		_subclass	RPN
 %define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
+
 Summary:	%{_pearname} - RPN (Reverse Polish Notation) support
 Summary(pl):	%{_pearname} - obs³uga odwrotnej notacji polskiej (RPN)
 Name:		php-pear-%{_pearname}
