@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - RPN (Reverse Polish Notation) support
-Summary(pl.UTF-8):   %{_pearname} - obsługa odwrotnej notacji polskiej (RPN)
+Summary(pl.UTF-8):	%{_pearname} - obsługa odwrotnej notacji polskiej (RPN)
 Name:		php-pear-%{_pearname}
 Version:	1.1.1
 Release:	3
