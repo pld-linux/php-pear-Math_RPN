@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - RPN (Reverse Polish Notation) support
 Summary(pl.UTF-8):	%{_pearname} - obsługa odwrotnej notacji polskiej (RPN)
 Name:		php-pear-%{_pearname}
-Version:	1.1.1
-Release:	4
+Version:	1.1.2
+Release:	1
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	5e121f83444d826ba006f0d6bff70295
+# Source0-md5:	98ce93da23235fe76dc8248422d6d8ff
 URL:		http://pear.php.net/package/Math_RPN/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
